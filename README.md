@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=tokyonight"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=tokyonight"/>
 
 <!--
 **mingeun128/mingeun128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
