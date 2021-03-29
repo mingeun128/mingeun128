@@ -1,5 +1,5 @@
 ### Android Developer
-<div align=top>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=tokyonight"/>
 <div/>
