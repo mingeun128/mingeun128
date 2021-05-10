@@ -2,7 +2,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=tokyonight"/>
-  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={alsrms27})](https://solved.ac/{alsrms27})
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mingeun128)](https://solved.ac/alsrms27)
 <div/>
   
 <!--
