@@ -3,7 +3,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=tokyonight"/>
 <div/>
 <div>
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={alsrms27})](https://solved.ac/{alsrms27})
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alsrms27})](https://solved.ac/{alsrms27})
 <div/>
   
 <!--
