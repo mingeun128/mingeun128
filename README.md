@@ -2,9 +2,11 @@
 # Kim Min Geun
 Hi,there! Nice to meet you :)
 
-I am a student studying CS.
+I was an Android developer and Windows platform developer.
 
 I can adapt to anything by experiencing various things.
+
+Now, i am a student studying CS And I hope to be an AI engineer.
 
 
 ## Skills
