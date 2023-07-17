@@ -10,12 +10,12 @@
 
 # Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-4479A1.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Csharp](https://img.shields.io/badge/C%23-F57F17.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-FBC02D?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-FDD835.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Pytorch](https://img.shields.io/badge/Pytorch-FDD835.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
 
 
 <!--
