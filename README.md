@@ -1,10 +1,13 @@
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=tokyonight"/>
-<div/>
-<div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrms27)](https://solved.ac/alsrms27/)
-<div/>
+# KIM MIN GEUN
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingeun128&count_bg=%231700FF&title_bg=%23A24900&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=tokyonight"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrms27)](https://solved.ac/alsrms27/)
   
 <!--
 **mingeun128/mingeun128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
