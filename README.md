@@ -3,7 +3,7 @@
 Hi,there!
 
 
-# Skills
+## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-4479A1.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -14,11 +14,11 @@ Hi,there!
 ![Arduino](https://img.shields.io/badge/Arduino-4DDBBD.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-# Git Stats
+## Git Stats
 <img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=dark"/>
 
-# BOJ
+## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrms27)](https://solved.ac/alsrms27/)
 ![Solved.ac Solve](https://mazandi.herokuapp.com/api?handle=alsrms27&theme=cold)
 
