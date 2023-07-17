@@ -1,9 +1,5 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingeun128&count_bg=%23FFD28A&title_bg=%23CA8A00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 # Kim Min Geun
-<a href="https://www.linkedin.com/in/min-geun-kim-4b4839250/">
-<img src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&link=https://www.linkedin.com/in/min-geun-kim-4b4839250/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-<a href="mailto:mgkim128@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mgkim128@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 Hi,there! Nice to meet you :)
 
@@ -13,6 +9,10 @@ I can adapt to anything by experiencing various things.
 
 Now, i am a student studying CS And I hope to be an AI engineer.
 
+<a href="https://www.linkedin.com/in/min-geun-kim-4b4839250/">
+<img src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&link=https://www.linkedin.com/in/min-geun-kim-4b4839250/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="mailto:mgkim128@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mgkim128@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
