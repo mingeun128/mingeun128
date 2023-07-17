@@ -1,5 +1,5 @@
-# KIM MIN GEUN
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingeun128&count_bg=%23FFD28A&title_bg=%23CA8A00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+# KIM MIN GEUN
 
 # Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
