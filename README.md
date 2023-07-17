@@ -17,8 +17,8 @@ Hi,there!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrms27)](https://solved.ac/alsrms27/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=dark"/>
 
 
 
