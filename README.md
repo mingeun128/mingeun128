@@ -9,9 +9,10 @@
 
 
 # Skills
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
+![Csharp](https://img.shields.io/badge/C%23-FBC02D.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
 
 
 <!--
