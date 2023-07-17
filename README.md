@@ -13,12 +13,16 @@ Hi,there!
 ![C](https://img.shields.io/badge/C-FDD835.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-4DDBBD.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
 
+
+# Git Stats
+<img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=dark"/>
+
 # BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrms27)](https://solved.ac/alsrms27/)
 ![Solved.ac Solve](https://mazandi.herokuapp.com/api?handle=alsrms27&theme=cold)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=dark"/>
+
 
 
 
