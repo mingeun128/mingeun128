@@ -3,11 +3,11 @@
 
 Hi,there! Nice to meet you :)
 
-I was an Android developer and Windows platform developer.
+I was an Android and Windows APP developer.
 
 I can adapt to anything by experiencing various things.
 
-Now, i am a student studying CS And I hope to be an AI engineer.
+Now, i am a student studying CS And I hope to be an AI engineer (Data Science).
 
 <a href="https://www.linkedin.com/in/min-geun-kim-4b4839250/">
 <img src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&link=https://www.linkedin.com/in/min-geun-kim-4b4839250/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
@@ -27,11 +27,11 @@ Now, i am a student studying CS And I hope to be an AI engineer.
 ![C](https://img.shields.io/badge/C-FDD835.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-4DDBBD.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
 
-
+<!--
 ## Git Stats
 <img src="https://github-readme-stats.vercel.app/api?username=mingeun128&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun128&show_icons=true&theme=dark"/>
-
+-->
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrms27)](https://solved.ac/alsrms27/)
 ![Solved.ac Solve](https://mazandi.herokuapp.com/api?handle=alsrms27&theme=cold)
